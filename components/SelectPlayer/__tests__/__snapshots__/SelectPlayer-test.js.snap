@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`unit test select-player component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    Select your player
+  </Text>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/avatars/smurf.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Smurf
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/avatars/thor.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Thor
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/avatars/wonder-woman.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Wonder Woman
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/avatars/wizard-original.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Wizard Original
+      </Text>
+    </View>
+  </View>
+</View>
+`;

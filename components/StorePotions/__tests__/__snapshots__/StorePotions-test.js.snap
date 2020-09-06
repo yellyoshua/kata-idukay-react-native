@@ -1,0 +1,410 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`unit test store-potions component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    Store of Potions
+  </Text>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 2,
+              "marginBottom": 10,
+              "width": "100%",
+            },
+            Object {
+              "backgroundColor": "red",
+            },
+          ]
+        }
+      />
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/potions/love-potion.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        True love!
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 15,
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Con esta poción caerá rendido/a a tus pies.
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 2,
+              "marginBottom": 10,
+              "width": "100%",
+            },
+            Object {
+              "backgroundColor": "blue",
+            },
+          ]
+        }
+      />
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/potions/illusions-potion.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        False illusions
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 15,
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Corromperás su alma.
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 2,
+              "marginBottom": 10,
+              "width": "100%",
+            },
+            Object {
+              "backgroundColor": "green",
+            },
+          ]
+        }
+      />
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/potions/fake-friends-potion.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Fake friends
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 15,
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Lastimarás su simpatía.
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 2,
+              "marginBottom": 10,
+              "width": "100%",
+            },
+            Object {
+              "backgroundColor": "yellow",
+            },
+          ]
+        }
+      />
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/potions/ignorance-potion.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Blessed ignorance
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 15,
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Acabarás con su carrera.
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#33363e",
+          "borderRadius": 10,
+          "margin": 10,
+          "opacity": 1,
+          "padding": 10,
+          "textAlign": "center",
+          "width": 150,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 2,
+              "marginBottom": 10,
+              "width": "100%",
+            },
+            Object {
+              "backgroundColor": "gray",
+            },
+          ]
+        }
+      />
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://raw.githubusercontent.com/yellyoshua/kata-idukay-react/master/src/icons/potions/defame-potion.png",
+          }
+        }
+        style={
+          Object {
+            "height": 120,
+            "marginHorizontal": "auto",
+            "width": 120,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Defame
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 15,
+            "paddingVertical": 10,
+          }
+        }
+      >
+        Acabarás con su orgullo.
+      </Text>
+    </View>
+  </View>
+</View>
+`;
