@@ -2,7 +2,7 @@
 
 Un hechicero sea este un Pitufo, un Mago, o incluso Thor y la Mujer Maravilla, van de compras a por unas cuantos pociones para las cuales necesitarán calcular qué pociones resultan "mas mejor" para un ataque al enemigo.
 
-El algoritmo lo que hace es hacer un ciclo **for** de la lista de pociones adquiridas. En cada siclo este comprueba si las pociones se repiten entonces repetir el ciclo una y otra vez hasta que las combinaciones de pociones no repitan.
+El algoritmo lo que hace es hacer un ciclo **for** de la lista de pociones adquiridas. En cada ciclo este comprueba si las pociones se repiten, entonces repetir el ciclo una y otra vez hasta que las combinaciones de pociones no repitan y al final obtener el total de combinaciones. De las combinaciones obtenidas se hace un mapeo de cada combinación y de esta sacar su valor en lo que viene la regla de: 1 combinación hace un 3% de daño. 2 combinaciones diferentes hace un 5% de daño... Al final despues de haber obtenido las combinaciones y el daño que genera cada una, lo que resta por hacer es sumar todo ese daño de cada combinación para así dar con el daño total realizado. 
 
 ---
 
